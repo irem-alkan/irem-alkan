@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm İrem Alkan</h1>
+<h1 align="center">Hi, I'm İrem Alkan</h1>
 <h3 align="center">A passionate fullstack developer from Türk’te</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irem-alkan&label=Profile%20views&color=0e75b6&style=flat" alt="irem-alkan" /> </p>
