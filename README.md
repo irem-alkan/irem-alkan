@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm İrem Alkan</h1>
-<h3 align="center">A passionate fullstack developer from Turkey</h3>
+<h3 align="center">A fullstack developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irem-alkan&label=Profile%20views&color=0e75b6&style=flat" alt="irem-alkan" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Udemy, C#, Python, Data Structure**
 
-- 👯 I’m looking to collaborate on ****
+<!-- 👯 I’m looking to collaborate on ****
 
-- 🤝 I’m looking for help with ****
+- 🤝 I’m looking for help with ****-->
 
 - 📫 How to reach me **alkanirem212@gmail.com**
 
