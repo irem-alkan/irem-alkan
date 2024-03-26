@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Udemy, C#, Python, Data Structure**
 
-- 👯 I’m looking to collaborate on **horror themed puzzle game**
+- 👯 I’m looking to collaborate on ****
 
-- 🤝 I’m looking for help with **Python proje**
+- 🤝 I’m looking for help with ****
 
 - 📫 How to reach me **alkanirem212@gmail.com**
 
